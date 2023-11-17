@@ -1,2 +1,2 @@
-# EjProgramaci-n
+# EjProgramacion
 Mi primer reprositorio eclipse
